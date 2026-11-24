@@ -1,0 +1,14 @@
+{
+  "name": "ontor-v1-panel-bot",
+  "version": "1.0.0",
+  "description": "Ontor V1 Panel \u2014 single file Node.js panel",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "dependencies": {},
+  "license": "MIT"
+}
